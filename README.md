@@ -9,3 +9,4 @@ This repository contains a collection of code snippets and projects aimed at tes
 
 **Technologies Used**
 - Python
+- matplotlib
